@@ -17,14 +17,14 @@ int calculate(int p, int bp, int dp)
 
 int main()
 {
-	int population, birthRate, deathRate, years;
+   int population, birthRate, deathRate, years;
 
-	do
-	{
-	   printf("Please enter the starting population: ");
-	   fflush(stdout);
-	   scanf("%d", &population);
-	} while(population < 2);
+   do
+   {
+      printf("Please enter the starting population: ");
+      fflush(stdout);
+      scanf("%d", &population);
+   } while(population < 2);
 
    do
    {
@@ -54,5 +54,5 @@ int main()
    }
    printf("\n");
 
-	return 0;
+   return 0;
 }
