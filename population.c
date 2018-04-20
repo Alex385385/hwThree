@@ -2,7 +2,7 @@
  * population.c
  *
  *  Created on: Apr 19, 2018
- *      Author: amillan1
+ *      Author: Alejandro Millan
  */
 #include <stdio.h>
 

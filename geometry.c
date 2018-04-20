@@ -2,7 +2,7 @@
  * geometry.c
  *
  *  Created on: Apr 15, 2018
- *      Author: amillan1
+ *      Author: Alejandro Millan
  */
 #include <stdio.h>
 
@@ -56,4 +56,3 @@ int main()
 		printf("End/n");
 	}
 }
-
